@@ -1,0 +1,5 @@
+1. mulai
+2. variable x di bagi dengan 2
+3. jika setelah di bagi 2 masih ada sisanya atau x % 2 = 1, itu bilangan ganjil
+4. jika setelah di bagi 2 dan habis tidak ada sisanya atau x % 2 = 0, itu bilangan genap
+5. selesai
