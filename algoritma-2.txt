@@ -1,0 +1,7 @@
+1. mulai
+2. menghitung luas lingkaran terlebih dahulu mulai dari nilai r nya terlebih dahulu, yaitu r * r
+3. lalu jika sudah tinggal menghitung pi dengan hasil dari perkalian r sebelumnya, seperti ini pi * r2
+4. lalu simpan hasilnya dan lanjut untuk menghitung keliling lingkaran
+5. pertama untuk menghitung keliling nya dengan cara kita kalikan terlebih dahulu 2 * pi
+6. dan jika sudah mendapatkan hasilnya tinggal kita kalikan saja dengan r atau jari jari
+5. selesai
